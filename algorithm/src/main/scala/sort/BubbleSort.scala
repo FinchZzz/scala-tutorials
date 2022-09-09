@@ -1,6 +1,10 @@
 package org.finch
 package sort
 
+/**
+ *  https://github.com/vkostyukov/scalacaster
+ *
+ */
 object BubbleSort {
 
   def sort(arr: Array[Int]): Unit = {
